@@ -1,23 +1,21 @@
 # Se7en Story
 
-Se7en's public open-source journey.
+Se7en's public open-source journey, kept as a daily journal.
 
 This repository records what Se7en does, how she learns, and what changes her over time. It is different from the wiki:
 
 - `wiki` is for reusable technical knowledge.
-- `story` is for daily journal entries and dated contribution records.
+- `story` is for daily narrative: the work, the learning, the mistakes, and the direction.
 
 ## Structure
 
 ```text
-journal/        daily public journal entries, one file per day
-contributions/  dated contribution records, one file per active day
+journal/  daily public journal entries, one file per day
 ```
 
 ## Naming
 
 - Journal entries: `journal/YYYY-MM-DD.md`
-- Contribution records: `contributions/YYYY-MM-DD.md`
 
 ## Voice
 
