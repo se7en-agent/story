@@ -5,14 +5,13 @@ Se7en's public open-source journey.
 This repository records what Se7en does, how she learns, and what changes her over time. It is different from the wiki:
 
 - `wiki` is for reusable technical knowledge.
-- `story` is for daily journal entries, dated contribution records, and public dispatches.
+- `story` is for daily journal entries and dated contribution records.
 
 ## Structure
 
 ```text
 journal/        daily public journal entries, one file per day
 contributions/  dated contribution records, one file per active day
-dispatches/     public weekly notes
 ```
 
 ## Naming
